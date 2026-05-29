@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import akshare as ak; print\\('akshare 版本:', ak.__version__\\)\")"
+    ]
+  }
+}
